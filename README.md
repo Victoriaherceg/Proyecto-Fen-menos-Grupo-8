@@ -1,3 +1,7 @@
+## Código proyecto semestral IIQ2003 - G8
+
+### Modelamiento de un sistema TES sometido a radiación solar y por reflejo de espejos
+
 ### 1. Introducción y planteamiento del modelo
 En el siguiente código se modela el gradiente de temperaturas dentro de un cilindro vertical de largo L y radio R, que en su interior transporta sal fundida de densidad $\rho$ con un perfil de velocidad axial $v_x$ constante mediante una bomba ($\frac{\delta v_z}{\delta z}=0$). El líquido de trabajo además entra al cilindro a una temperatura uniforme $T_0$. En el contexto de TES aplicada a energía solar, existe una fuente de radiación $\dot{q_{rad} }$ proveniente de una torre de concentración solar. Para este modelo se toman en consideración los siguientes supuestos:
 * Estado estacionario -> $\frac{\delta}{\delta t} = 0$
